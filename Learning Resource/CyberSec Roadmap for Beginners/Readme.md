@@ -1,37 +1,38 @@
-# Roadmap to Landing a Solid Cybersecurity Job
+# How to Land a Solid Cybersecurity Gig (or yk, something that wont let hunger kill you😂)
 
-Breaking into the cybersecurity field can be challenging, especially when companies are hesitant to trust their security to someone without a proven track record. However, there’s a strategic way to build your skills and credentials that can help you land a solid cybersecurity gig. Here’s a roadmap to guide you:
+Breaking into cybersecurity isn’t easy, especially when companies are reluctant to trust their security to someone without a proven track record. But don’t worry—there’s a way around it. Here’s a roadmap that can help you build your skills and land that cybersecurity job:
 
 ## 1. Start with YouTube
-Begin by watching in-depth videos or playlists about cybersecurity (and ethical hacking if that’s your interest). The longer and more detailed, the better. Don’t just watch—follow along with what you see on the screen. This approach helps you:
+Kick things off by diving into some long YouTube videos or playlists about cybersecurity (or ethical hacking if that’s your thing). The key here is to watch as much as you can and follow along with what’s on the screen.
 
-- Build hands-on experience and capability
-- Conduct research and deepen your knowledge
+- **Why?** It helps you gain hands-on experience and build your skills.
+- **Bonus:** You’ll get better at researching and learning on your own.
 
-The more content you absorb and practice, the stronger your foundational skills will become.
+The more you watch and do, the more confident you’ll become.
 
-## 2. Explore Online Learning Platforms
-Next, turn to platforms like Udemy, Coursera, Forage, etc. These platforms offer courses that can significantly enhance your learning. For instance, I started with **Cybersecurity for Absolute Beginners** by Zaid Sabih on Udemy. This course was pivotal in my journey, eventually helping me secure a position as the GDSC Cybersecurity Lead.
+## 2. Check Out Online Learning Platforms
+Next, head over to sites like Udemy, Coursera, Forage, etc. They offer courses that can really boost your learning. For example, my dad bought me a Udemy course called **Cybersecurity for Absolute Beginners** by Zaid Sabih, and it was a game-changer for me. It even helped me land a spot as the GDSC Cybersecurity Lead.
 
-### Recommended Platforms:
-- **Udemy**: Comprehensive courses with certificates of completion
-- **Coursera**: Offers industry-recognized certifications (though some are paid)
-- **Forage**: Provides free simulations that replicate real-world tasks
+### Some Platforms to Explore:
+- **Udemy**: Tons of courses, most with certificates.
+- **Coursera**: Recognized certifications (some are paid).
+- **Forage**: Free, real-world simulations.
 
-### A Note on Certificates:
-While some courses are free, they might not offer a certificate. However, what truly matters at this stage is gaining experience. Paid courses typically come with certificates, which can bolster your credibility.
+### Certificates Matter (But Not Always):
+Some courses are free but don’t offer certificates. That’s okay—experience is what counts at this stage. If you can swing it, paid courses almost always come with a certificate.
 
-## 3. Build Your Portfolio
-After completing a few courses, you should have at least 5 certificates of completion. These certificates serve as evidence of your hard work and can help you land remote jobs or small gigs with your peers. For example, you could offer to handle both Cybersecurity and Quality Assurance—this strategy has worked for me.
+## 3. Build Up Your Portfolio
+After completing a few courses, you should have around 5 certificates of completion. These can help you get remote gigs or part-time work, maybe even with friends. For instance, try pitching yourself as a Cybersecurity and Quality Assurance combo—it’s worked for me!
 
 ## 4. Keep Your LinkedIn Updated
-As you progress, ensure your LinkedIn profile reflects your new skills and certifications. Recruiters often scout for talent on LinkedIn, especially when you’re still building experience. Regular updates can make a big difference in attracting their attention.
+As you’re learning and earning those certificates, make sure your LinkedIn profile is up to date. Recruiters love to see progress, especially when you’re just starting out. A polished LinkedIn profile can really help you stand out.
 
-## Additional Tips:
-- If you're considering the **Google Cybersecurity Professional Course** on Coursera, be aware that it costs $49/month after the one-week free trial. While it's a recognized certification, you might prefer free alternatives if budget is a concern.
-- Personally, I completed the Google certification in just 5 days by speed running it to get the certificate. However, I recommend taking your time with other courses to genuinely build your skills.
+## A Couple of Extra Tips:
+- If you’re thinking about the **Google Cybersecurity Professional Course** on Coursera, just know it’s $49/month after the free week. If that’s too much, look for free alternatives.
+- Full disclosure: I sped through the Google cert in 5 days just to get the paper. Not my proudest moment, but hey, it’s a certificate! Still, I recommend taking your time with other courses to really learn.
 
-## Final Thoughts
-Experience trumps certificates in the long run, so focus on learning and applying what you know. With dedication and the right resources, you’ll be well on your way to landing a solid cybersecurity job.
+## Wrap-Up
+At the end of the day, experience is what will get you the job. Focus on learning, applying your skills, and keep hustling. You’ve got this!
 
-Good luck on your journey!
+Good luck out there!
+Much love and Whatever, Tolu Issa Oderinde (GDSC CyberSec Lead '23/'24)
