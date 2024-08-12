@@ -118,6 +118,7 @@ Welcome to the Cybersecurity Learning Roadmap! This guide is designed to help yo
 - [Certified Ethical Hacker (CEH) Preparation](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
 - [Hack The Box Academy](https://academy.hackthebox.com/)
+- [Try Hack Me](https://tryhackme.com/)
 
 ### 3.3 Incident Response and Forensics
 **Goal:** Understand how to respond to security incidents and investigate breaches.
