@@ -65,7 +65,7 @@ If you found value in this, consider following this repository. I’m all about 
 
 # Connect with me:
 
-- [Linkedln-Tomiwa](https://www.linkedin.com/in/tomiwa-taiwo)
-- [Twitter - Tolu](https://x.com/theyknowissa?t=EXzTq60rp14n4Sf1RaKwqQ&s=09)
+- [LinkedIn-Tomiwa](https://www.linkedin.com/in/tomiwa-taiwo)
+- [LinkedIn - Tolu](https://www.linkedin.com/in/toluwanimi-oderinde))
 
 
