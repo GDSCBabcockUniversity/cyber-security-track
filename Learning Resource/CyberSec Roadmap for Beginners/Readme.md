@@ -29,7 +29,7 @@ As you’re learning and earning those certificates, make sure your LinkedIn pro
 
 ## A Couple of Extra Tips:
 - If you’re thinking about the **Google Cybersecurity Professional Course** on Coursera, just know it’s $49/month after the free week. If that’s too much, look for free alternatives.
-- Full disclosure: I sped through the Google cert in 5 days just to get the paper. Not my proudest moment, but hey, it’s a certificate! Still, I recommend taking your time with other courses to really learn.
+- Full disclosure: I sped through (obviously learnt a little more) the Google cert in 5 days just to get the paper. Not my proudest moment, but hey, it’s a certificate! Still, I recommend taking your time with other courses to really learn. The course is also on YouTube for free so check it out.
 
 ## Wrap-Up
 At the end of the day, experience is what will get you the job. Focus on learning, applying your skills, and keep hustling. You’ve got this!
